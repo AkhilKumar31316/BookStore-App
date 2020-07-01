@@ -2,7 +2,10 @@
 "Steps : The project consists of backend and frontend. First we will get the backend up and running and then front end Backend".
 Backend
 -------
-1.) Unzip bookstore.zip to c:\springworkspace folder.
+As the files are too large to upload on to the github, i have uploaded on to Google drive for you to access. Please download from the below  link
+https://drive.google.com/file/d/1PY8dsfbph5A-nnL-deYnqYUWt5KJ1Kkj/view?usp=sharing
+
+1.) Unzip springworkspace.zip and please copy to the C drive
 
 2.) go to c:\springworkspace\bookstore-master path in the command prompt.
 
@@ -73,6 +76,9 @@ Backend
 
 Frontend
 ---------
+As the files are too large to upload on to the github, i have uploaded on to Google drive for you to access. Please download from the below link
+https://drive.google.com/file/d/1HtgVeEp0UJksh4XQQuJaIZ7qy-yPeEGP/view?usp=sharing
+
 Once you extract the folder ,go to command prompt and Run the following commands
 - npm install -g @angular/cli
 - npm install
@@ -83,4 +89,11 @@ Once you extract the folder ,go to command prompt and Run the following commands
               "src/styles.css",
               "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
+
+Snapshots
+-----------
+
+Please note that i have also attached snapshots for Frontend app,Rest API services and Database on Google drive. Here is the linke to access
+
+https://drive.google.com/file/d/1WhfleJ53G94Ehi3dG9vybJwmb8G0pW_4/view?usp=sharing
 
